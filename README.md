@@ -1,2 +1,0 @@
-# salut-plus
-Test task
